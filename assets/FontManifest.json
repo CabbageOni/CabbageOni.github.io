@@ -8,6 +8,17 @@
     ]
   },
   {
+    "family" : "CustomIcons",
+    "fonts": [
+      {
+        "asset": "fonts/GithubIcon.ttf"
+      },
+      {
+        "asset": "fonts/LinkedInIcon.ttf"
+      }
+    ]
+  },
+  {
     "family": "Gugi",
     "fonts": [
       {
