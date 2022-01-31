@@ -8,13 +8,10 @@
     ]
   },
   {
-    "family" : "CustomIcons",
+    "family" : "FontAwesome5Icons",
     "fonts": [
       {
-        "asset": "fonts/GithubIcon.ttf"
-      },
-      {
-        "asset": "fonts/LinkedInIcon.ttf"
+        "asset": "fonts/FontAwesome5Icons.ttf"
       }
     ]
   },
